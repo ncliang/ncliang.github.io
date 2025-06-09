@@ -4,5 +4,9 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+# Welcome!
+
+高雄出身，美國就業，日本退休。在這邊跟大家分享程式、理財、FIRE、日本生活等等各種主題。
+
+![Profile Image](/assets/images/about/about.png)
+
