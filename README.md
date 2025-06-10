@@ -43,6 +43,9 @@ This work is published under [MIT][mit] License.
 [mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
 
 ## Local build and test
+1. Install Jekyll following instructions https://jekyllrb.com/docs/installation/macos/
+2. Install missing gem executables with `bundle install`
+3. build and run locally
 ```bash
 bundle exec jekyll clean && bundle exec jekyll serve
 ```
