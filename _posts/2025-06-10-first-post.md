@@ -5,8 +5,6 @@ categories: []
 tags: [blog]
 ---
 
-# First Post
-
 新網誌開張啦！最近進入半退休狀態每天變得有點閒。想說可以恢復寫網誌的習慣了。
 
 舊網誌搬到 [blog-archive.nigelliang.com](https://blog-archive.nigelliang.com)
