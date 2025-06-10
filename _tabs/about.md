@@ -10,5 +10,5 @@ order: 4
 
 [舊部落格文章請點這裡](https://blog-archive.nigelliang.com)
 
-![Profile Image](/assets/img/about/me.png)
+![Profile Image](/assets/img/about/me.webp)
 

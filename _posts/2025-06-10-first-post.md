@@ -22,6 +22,6 @@ tags: [blog]
 
 以上。よろしくお願いします
 
-![First Post Image](/assets/img/posts/2025-06-10-first-post.png)
+![First Post Image](/assets/img/posts/2025-06-10-first-post.webp)
 
 --- 
