@@ -8,5 +8,7 @@ order: 4
 
 我，20歲在台灣、30歲在美國、40歲在日本。在高雄出身、在美國就業、在日本退休。在這邊，跟大家分享程式、理財、FIRE、日本生活等等各種主題。
 
+[舊部落格文章請點這裡](https://blog-archive.nigelliang.com)
+
 ![Profile Image](/assets/img/about/me.png)
 
