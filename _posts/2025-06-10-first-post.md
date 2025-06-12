@@ -7,8 +7,6 @@ tags: [blog]
 
 新網誌開張啦！最近進入半退休狀態每天變得有點閒。想說可以恢復寫網誌的習慣了。
 
-舊網誌搬到 [blog-archive.nigelliang.com](https://blog-archive.nigelliang.com)
-
 其實，上次寫網誌已經是2011年的事了。一晃眼就過了這麼多年嗎？這中間還發生真多事啊...
 
 - 家人相繼過世，小孩相繼出生
